@@ -19,6 +19,8 @@ console.log(mapresult);
 // Simplfied w/ map() + arrow function
 const mapresult2 = nums.map (num => num * 2);
 console.log("Myresult2:", mapresult2)
+
+
 // With objects:
 const students = [
     {
